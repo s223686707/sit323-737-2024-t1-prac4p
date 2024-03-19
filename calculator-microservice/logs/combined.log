@@ -1,0 +1,10 @@
+{"level":"info","message":"Subtraction: 3 - 2 = 1","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 5 + 2 = 7","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication: 5 * 3 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Division: 5 / 3 = 1.6666666666666667","service":"calculator-microservice"}
+{"level":"error","message":"Invalid Numbers Provided","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 7 + 2 = 9","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero","service":"calculator-microservice"}
+{"level":"info","message":"Division: 5 / 5 = 1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid Numbers Provided","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero","service":"calculator-microservice"}
